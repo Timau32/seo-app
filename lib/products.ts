@@ -35,8 +35,8 @@ export const products: Product[] = [
     price: 18500,
     currency: 'KGS',
     images: [
-      'https://images.unsplash.com/photo-1585847787681-26c7aec6210d?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&h=600&fit=crop'
+      'https://images.unsplash.com/photo-1585847787681-26c7aec6210d',
+      'https://images.unsplash.com/photo-1556911220-bff31c812dba'
     ],
     category: 'kitchen',
     material: 'Латунь',
@@ -59,8 +59,8 @@ export const products: Product[] = [
     price: 9800,
     currency: 'KGS',
     images: [
-      'https://images.unsplash.com/photo-1620626011761-996317b8d101?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&h=600&fit=crop'
+      'https://images.unsplash.com/photo-1620626011761-996317b8d101',
+      'https://images.unsplash.com/photo-1584622650111-993a426fbf0a'
     ],
     category: 'bathroom',
     material: 'Латунь',
@@ -83,8 +83,8 @@ export const products: Product[] = [
     price: 7850,
     currency: 'KGS',
     images: [
-      'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1564540579594-0930edb6de43?w=800&h=600&fit=crop'
+      'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14',
+      'https://images.unsplash.com/photo-1564540579594-0930edb6de43'
     ],
     category: 'shower',
     material: 'Латунь',
@@ -107,8 +107,8 @@ export const products: Product[] = [
     price: 28900,
     currency: 'KGS',
     images: [
-      'https://images.unsplash.com/photo-1620626011761-996317b8d101?w=800&h=600&fit=crop&sat=-100',
-      'https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800&h=600&fit=crop'
+      'https://images.unsplash.com/photo-1620626011761-996317b8d101',
+      'https://images.unsplash.com/photo-1607472586893-edb57bdc0e39'
     ],
     category: 'basin',
     material: 'Латунь',
@@ -131,8 +131,8 @@ export const products: Product[] = [
     price: 14450,
     currency: 'KGS',
     images: [
-      'https://images.unsplash.com/photo-1595514535116-52677f421d0a?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&h=600&fit=crop&sat=-50'
+      'https://images.unsplash.com/photo-1595514535116-52677f421d0a',
+      'https://images.unsplash.com/photo-1556911220-bff31c812dba'
     ],
     category: 'kitchen',
     material: 'Силгранит',
@@ -155,8 +155,8 @@ export const products: Product[] = [
     price: 21950,
     currency: 'KGS',
     images: [
-      'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&h=600&fit=crop&sat=-20',
-      'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop&sat=-30'
+      'https://images.unsplash.com/photo-1584622650111-993a426fbf0a',
+      'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14'
     ],
     category: 'shower',
     material: 'Латунь',
